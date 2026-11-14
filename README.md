@@ -20,7 +20,7 @@ Zum Spielen reicht die neueste Datei in `07_Alle_Versionen` – alle Bilder und 
 
 | Schritt | Inhalt | Status |
 |---|---|---|
-| 1 | Hauptmenü | fertig (V1.00) |
+| 1 | Hauptmenü | fertig (V1.01) |
 | 2 | Ladebildschirm | offen |
 | 3 | 3D-Welt mit Siles | offen |
 | 4 | Monster in der Welt | offen |
