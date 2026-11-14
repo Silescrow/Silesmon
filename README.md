@@ -2,7 +2,7 @@
 
 Monster zähmen und kämpfen – mobiles 3D-Browser-Spiel fürs Handy. Hier liegen alle Dateien, die das Spiel benutzt, und alle Spielversionen.
 
-**Online spielen:** https://silescrow.github.io/Silesmon/ (läuft, sobald GitHub Pages eingeschaltet ist)
+**Online spielen:** https://silescrow.github.io/SilesmonGithub/
 
 | Ordner | Inhalt |
 |---|---|
@@ -12,7 +12,7 @@ Monster zähmen und kämpfen – mobiles 3D-Browser-Spiel fürs Handy. Hier lieg
 | `04_Monster` | Figurenblätter der 10 Monster: `Nummer_Name_Tier_Typ` |
 | `05_Trainer` | Figurenblätter der 4 Trainer (Feuer, Wasser, Pflanze, Luft/Erde) |
 | `06_Musik` | Musik fürs Hauptmenü |
-| `07_Alle_Versionen` | alle Spielversionen ab `V1.00`, fortlaufend nummeriert (+0.01 pro Version); die neueste läuft online als `index.html` |
+| `07_Alle_Versionen` | alle Spielversionen ab `V1.00`, fortlaufend nummeriert (+0.01 pro Version); die neueste läuft online als `index.html` im Repository `SilesmonGithub` |
 
 Zum Spielen reicht die neueste Datei in `07_Alle_Versionen` – alle Bilder und Töne sind dort eingebaut.
 
