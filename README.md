@@ -21,7 +21,7 @@ Zum Spielen reicht die neueste Datei in `07_Alle_Versionen` – alle Bilder und 
 | Schritt | Inhalt | Status |
 |---|---|---|
 | 1 | Hauptmenü | fertig (V1.01) |
-| 2 | Ladebildschirm | offen |
+| 2 | Ladebildschirm | fertig (V1.02), Ladebalken noch gespielt |
 | 3 | 3D-Welt mit Siles | offen |
 | 4 | Monster in der Welt | offen |
 | 5 | Zähmen und Begleiter | offen |
