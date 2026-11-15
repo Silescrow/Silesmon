@@ -54,7 +54,7 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 - Verletzte Tiere heilt man in der Krankenstation.
 
 ## Reihenfolge
-1. Das Dorf – **gebaut in V1.09** (Siles noch als Platzhalter-Figur)
+1. Das Dorf – **gebaut, Stand V1.10**: Märchendorf, drehbare Kamera, Siles und Heilerin als aufgestellte Bild-Figuren aus den Figurenblättern
 2. Der Wald und die Rettung von Brisko
 3. Krankenstation mit Heilerin, erster Silpod
 4. Wilde Tiere im Wald
@@ -65,5 +65,7 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 9. Brisko wächst, erstes Gebiet mit Hüter, später Fliegen und Städte
 
 ## Figuren
-- Die richtigen 3D-Figuren kommen später. Bis dahin Platzhalter aus einfachen Formen.
+- Im Spiel stehen vorerst die Figuren aus den Figurenblättern als aufgestellte Bilder (vorne, seitlich, hinten). Richtige 3D-Figuren mit Skelett können sie später ersetzen.
+- Die Heilerin nutzt vorläufig das Figurenblatt `05_Trainer/3_Trainer_Pflanze.jpg` (Mädchen mit Zopf).
+- Stil der Welt: Märchendorf, klar und bunt wie in einem Pokémon-Spiel, mit dunklen Umrisslinien.
 - Regeln für Monster: kein Feuer, keine Tropfen, keine Wolke über dem Kopf, nichts in der Hand.
