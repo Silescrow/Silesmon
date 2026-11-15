@@ -6,7 +6,7 @@ Monster zähmen und kämpfen – mobiles 3D-Browser-Spiel fürs Handy. Hier lieg
 
 | Ordner | Inhalt |
 |---|---|
-| `01_Hauptmenue` | Cover mit Siles und Brisko, Logo-Schriftzug |
+| `01_Hauptmenue` | Cover (Siles mit Fernglas, riesiger Brisko auf der Ruine), Logo-Schriftzug; älteres Cover in `Alt/` |
 | `02_Ladebildschirm` | Bild für den Ladebildschirm (Siles lehnt an den riesigen Brisko); älteres Bild in `Alt/` |
 | `03_Spieler` | Figurenblatt von Siles (vorne, seitlich, hinten) |
 | `04_Monster` | Figurenblätter der 10 Monster: `Nummer_Name_Tier_Typ` |
@@ -20,7 +20,7 @@ Zum Spielen reicht die neueste Datei in `07_Alle_Versionen` – alle Bilder und 
 
 | Schritt | Inhalt | Status |
 |---|---|---|
-| 1 | Hauptmenü | fertig (V1.01) |
+| 1 | Hauptmenü | fertig (V1.04) |
 | 2 | Ladebildschirm | fertig (V1.03), Ladebalken noch gespielt |
 | 3 | 3D-Welt mit Siles | offen |
 | 4 | Monster in der Welt | offen |
