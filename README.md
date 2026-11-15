@@ -13,6 +13,7 @@ Monster zähmen und kämpfen – mobiles 3D-Browser-Spiel fürs Handy. Hier lieg
 | `05_Trainer` | Figurenblätter der 4 Trainer (Feuer, Wasser, Pflanze, Luft/Erde) |
 | `06_Musik` | Musik fürs Hauptmenü |
 | `07_Alle_Versionen` | alle Spielversionen ab `V1.00`, fortlaufend nummeriert (+0.01 pro Version); die neueste läuft online als `index.html` im Repository `SilesmonGithub` |
+| `08_App` | App-Icons und `manifest.webmanifest` für die installierte App (liegen zum Spielen auch in `SilesmonGithub`) |
 
 Zum Spielen reicht die neueste Datei in `07_Alle_Versionen` – alle Bilder und Töne sind dort eingebaut.
 
@@ -20,7 +21,7 @@ Zum Spielen reicht die neueste Datei in `07_Alle_Versionen` – alle Bilder und 
 
 | Schritt | Inhalt | Status |
 |---|---|---|
-| 1 | Hauptmenü | fertig (V1.06) |
+| 1 | Hauptmenü | fertig (V1.07) |
 | 2 | Ladebildschirm | gestrichen (war in V1.02–V1.04, seit V1.05 entfernt) |
 | 3 | 3D-Welt mit Siles | offen |
 | 4 | Monster in der Welt | offen |
