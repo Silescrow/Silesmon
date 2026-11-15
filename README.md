@@ -16,12 +16,13 @@ Monster zähmen und kämpfen – mobiles 3D-Browser-Spiel fürs Handy. Hier lieg
 | `07_Alle_Versionen` | alle Spielversionen ab `V1.00`, fortlaufend nummeriert (+0.01 pro Version); die neueste läuft online als `index.html` im Repository `SilesmonGithub` |
 | `08_App` | App-Icons und `manifest.webmanifest` für die installierte App (liegen zum Spielen auch in `SilesmonGithub`) |
 | `09_Vorlagen` | Vorlagenbilder für den Stil der Welt (z. B. das Bilderbuch-Haus) |
+| `10_3D_Modelle` | eigene 3D-Modelle als GLB (bisher: das Fachwerkhaus) |
 
 Zum Spielen reicht die neueste Datei in `07_Alle_Versionen` – alle Bilder und Töne sind dort eingebaut.
 
 ## Stand
 
-Aktuell: **V1.11** – Hauptmenü und das Dorf Wiesengrund in 3D (herumlaufen, Kamera drehen, Häuser, Schilder und die Heilerin ansehen). Wie es weitergeht, steht in `00_Spielplan.md`.
+Aktuell: **V1.12** – Hauptmenü und das Dorf Wiesengrund in 3D (herumlaufen, Kamera drehen, Häuser, Schilder und die Heilerin ansehen). Wie es weitergeht, steht in `00_Spielplan.md`.
 
 ## Monster
 

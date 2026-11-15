@@ -55,7 +55,7 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 - Verletzte Tiere heilt man in der Krankenstation.
 
 ## Reihenfolge
-1. Das Dorf – **gebaut, Stand V1.11**: Häuser im Bilderbuch-Stil nach Vorlagenbild (Fachwerk, geschwungenes Schindeldach, Balkon, Lattenzaun), drehbare Kamera, Siles mit Laufanimation und Heilerin als Bild-Figuren, Vollbild-Knopf
+1. Das Dorf – **gebaut, Stand V1.12**: alle fünf Häuser aus dem eigenen 3D-Modell `10_3D_Modelle/Haus_1_Fachwerk.glb` in verschiedenen Putzfarben, drehbare Kamera, Siles und Heilerin als Bild-Figuren, Vollbild-Knopf
 2. Der Wald und die Rettung von Brisko
 3. Krankenstation mit Heilerin, erster Silpod
 4. Wilde Tiere im Wald
@@ -64,6 +64,11 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 7. Wanderer und ihre Hütten
 8. Speichern
 9. Brisko wächst, erstes Gebiet mit Hüter, später Fliegen und Städte
+
+## Eigene 3D-Modelle
+- Häuser, Bäume und später Figuren kommen als GLB-Dateien (aus einem Bild erzeugt) und liegen in `10_3D_Modelle`.
+- Alle Häuser sollen im selben Stil sein.
+- Noch offen: Bäume und Wald als eigene Modelle, Siles mit Skelett und Laufanimation.
 
 ## Figuren
 - Im Spiel stehen vorerst die Figuren aus den Figurenblättern als aufgestellte Bilder (vorne, seitlich, hinten). Richtige 3D-Figuren mit Skelett können sie später ersetzen.
