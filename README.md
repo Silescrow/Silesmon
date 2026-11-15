@@ -6,6 +6,7 @@ Monster zähmen und kämpfen – mobiles 3D-Browser-Spiel fürs Handy. Hier lieg
 
 | Ordner | Inhalt |
 |---|---|
+| `00_Spielplan.md` | Geschichte, Regeln und Reihenfolge – alles, was fürs Spiel beschlossen ist |
 | `01_Hauptmenue` | Cover (Siles mit Fernglas, riesiger Brisko auf der Ruine), Logo-Schriftzug; älteres Cover in `Alt/` |
 | `02_Ladebildschirm` | Bilder für einen Ladebildschirm – im Spiel seit V1.05 nicht mehr benutzt |
 | `03_Spieler` | Figurenblatt von Siles (vorne, seitlich, hinten) |
@@ -19,17 +20,7 @@ Zum Spielen reicht die neueste Datei in `07_Alle_Versionen` – alle Bilder und 
 
 ## Stand
 
-| Schritt | Inhalt | Status |
-|---|---|---|
-| 1 | Hauptmenü | fertig (V1.08) |
-| 2 | Ladebildschirm | gestrichen (war in V1.02–V1.04, seit V1.05 entfernt) |
-| 3 | 3D-Welt mit Siles | offen |
-| 4 | Monster in der Welt | offen |
-| 5 | Zähmen und Begleiter | offen |
-| 6 | Kampf | offen |
-| 7 | Trainer | offen |
-| 8 | Speichern | offen |
-| 9 | Feinschliff | offen |
+Aktuell: **V1.09** – Hauptmenü und das Dorf Wiesengrund in 3D (herumlaufen, Häuser und Schilder ansehen). Wie es weitergeht, steht in `00_Spielplan.md`.
 
 ## Monster
 
