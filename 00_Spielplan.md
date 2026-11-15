@@ -7,6 +7,7 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 - Hauptmenü hochkant, das Spiel selbst nur quer.
 - Steuerung: Joystick links, Knöpfe rechts.
 - Kein Ladebildschirm, kein „Tippe zum Starten".
+- Vollbild beim ersten Tipp im Hauptmenü, dazu ein kleiner Vollbild-Knopf oben rechts im Spiel.
 
 ## Geschichte
 - Siles lebt im kleinen Bergdorf Wiesengrund (Name vorläufig).
@@ -54,7 +55,7 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 - Verletzte Tiere heilt man in der Krankenstation.
 
 ## Reihenfolge
-1. Das Dorf – **gebaut, Stand V1.10**: Märchendorf, drehbare Kamera, Siles und Heilerin als aufgestellte Bild-Figuren aus den Figurenblättern
+1. Das Dorf – **gebaut, Stand V1.11**: Häuser im Bilderbuch-Stil nach Vorlagenbild (Fachwerk, geschwungenes Schindeldach, Balkon, Lattenzaun), drehbare Kamera, Siles mit Laufanimation und Heilerin als Bild-Figuren, Vollbild-Knopf
 2. Der Wald und die Rettung von Brisko
 3. Krankenstation mit Heilerin, erster Silpod
 4. Wilde Tiere im Wald
@@ -67,5 +68,5 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 ## Figuren
 - Im Spiel stehen vorerst die Figuren aus den Figurenblättern als aufgestellte Bilder (vorne, seitlich, hinten). Richtige 3D-Figuren mit Skelett können sie später ersetzen.
 - Die Heilerin nutzt vorläufig das Figurenblatt `05_Trainer/3_Trainer_Pflanze.jpg` (Mädchen mit Zopf).
-- Stil der Welt: Märchendorf, klar und bunt wie in einem Pokémon-Spiel, mit dunklen Umrisslinien.
+- Stil der Welt: Bilderbuch-Dorf wie im Vorlagenbild `09_Vorlagen/Haus_Vorlage_Bilderbuchstil.jpg`: zweistöckige Fachwerkhäuser, farbiger Putz, gelbe Fensterrahmen, Rundbogentüren, Balkone, weiße Lattenzäune, Trittsteine, Sonnenblumen.
 - Regeln für Monster: kein Feuer, keine Tropfen, keine Wolke über dem Kopf, nichts in der Hand.
