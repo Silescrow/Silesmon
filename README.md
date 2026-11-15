@@ -7,7 +7,7 @@ Monster zähmen und kämpfen – mobiles 3D-Browser-Spiel fürs Handy. Hier lieg
 | Ordner | Inhalt |
 |---|---|
 | `01_Hauptmenue` | Cover mit Siles und Brisko, Logo-Schriftzug |
-| `02_Ladebildschirm` | Bild für den Ladebildschirm (Siles und Brisko im Abendlicht) |
+| `02_Ladebildschirm` | Bild für den Ladebildschirm (Siles lehnt an den riesigen Brisko); älteres Bild in `Alt/` |
 | `03_Spieler` | Figurenblatt von Siles (vorne, seitlich, hinten) |
 | `04_Monster` | Figurenblätter der 10 Monster: `Nummer_Name_Tier_Typ` |
 | `05_Trainer` | Figurenblätter der 4 Trainer (Feuer, Wasser, Pflanze, Luft/Erde) |
@@ -21,7 +21,7 @@ Zum Spielen reicht die neueste Datei in `07_Alle_Versionen` – alle Bilder und 
 | Schritt | Inhalt | Status |
 |---|---|---|
 | 1 | Hauptmenü | fertig (V1.01) |
-| 2 | Ladebildschirm | fertig (V1.02), Ladebalken noch gespielt |
+| 2 | Ladebildschirm | fertig (V1.03), Ladebalken noch gespielt |
 | 3 | 3D-Welt mit Siles | offen |
 | 4 | Monster in der Welt | offen |
 | 5 | Zähmen und Begleiter | offen |
@@ -40,7 +40,7 @@ Zum Spielen reicht die neueste Datei in `07_Alle_Versionen` – alle Bilder und 
 | 04 | Azuri | Hirschkalb | Wasser |
 | 05 | Sprossi | Eule | Pflanze |
 | 06 | Mooshi | Hamster | Pflanze |
-| 07 | Flaumi | Schaf | Luft (kann fliegen) |
-| 08 | Brisko | Adler | Luft (kann fliegen) |
+| 07 | Flaumi | Schaf | Luft (kann fliegen, größer als Siles) |
+| 08 | Brisko | Adler | Luft (kann fliegen, größer als Siles) |
 | 09 | Kristo | Dachs | Erde |
 | 10 | Schuppo | Schuppentier | Erde |
