@@ -55,7 +55,7 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 - Verletzte Tiere heilt man in der Krankenstation.
 
 ## Reihenfolge
-1. Das Dorf – **gebaut, Stand V1.12**: alle fünf Häuser aus dem eigenen 3D-Modell `10_3D_Modelle/Haus_1_Fachwerk.glb` in verschiedenen Putzfarben, drehbare Kamera, Siles und Heilerin als Bild-Figuren, Vollbild-Knopf
+1. Das Dorf – **gebaut, Stand V1.13**: Häuser aus dem eigenen 3D-Modell, Siles als echtes 3D-Modell mit Skelett (Gehen und Rennen), drehbare Kamera, Heilerin noch als Bild-Figur
 2. Der Wald und die Rettung von Brisko
 3. Krankenstation mit Heilerin, erster Silpod
 4. Wilde Tiere im Wald
@@ -68,7 +68,8 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 ## Eigene 3D-Modelle
 - Häuser, Bäume und später Figuren kommen als GLB-Dateien (aus einem Bild erzeugt) und liegen in `10_3D_Modelle`.
 - Alle Häuser sollen im selben Stil sein.
-- Noch offen: Bäume und Wald als eigene Modelle, Siles mit Skelett und Laufanimation.
+- Siles: `10_3D_Modelle/Siles_mit_Skelett_Gehen_Rennen.glb` (Meshy, Mixamo-Skelett, Animationen Walking und Running). Eine eigene Steh-Animation (Idle) fehlt noch.
+- Noch offen: Bäume und Wald als eigene Modelle, Heilerin, Brisko.
 
 ## Figuren
 - Im Spiel stehen vorerst die Figuren aus den Figurenblättern als aufgestellte Bilder (vorne, seitlich, hinten). Richtige 3D-Figuren mit Skelett können sie später ersetzen.
