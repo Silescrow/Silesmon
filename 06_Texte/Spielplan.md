@@ -56,7 +56,7 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 - Verletzte Tiere heilt man in der Krankenstation.
 
 ## Reihenfolge
-1. Das Dorf – **gebaut, Stand V1.15**: Häuser, Siles (mit Skelett), Laubbäume und Tannen aus eigenen 3D-Modellen, drehbare Kamera, Heilerin noch als Bild-Figur
+1. Das Dorf – **gebaut, Stand V1.18**: Häuser, Siles (mit Skelett), Laubbäume und Tannen aus eigenen 3D-Modellen, drehbare Kamera, Heilerin noch als Bild-Figur
 2. Der Wald und die Rettung von Brisko
 3. Krankenstation mit Heilerin, erster Silpod
 4. Wilde Tiere im Wald
@@ -67,17 +67,17 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 9. Brisko wächst, erstes Gebiet mit Hüter, später Fliegen und Städte
 
 ## Eigene 3D-Modelle
-- Häuser, Bäume und später Figuren kommen als GLB-Dateien (aus einem Bild erzeugt) und liegen in `10_3D_Modelle`.
+- Häuser, Bäume und später Figuren kommen als GLB-Dateien (aus einem Bild erzeugt) und liegen in `03_3D_Modelle`.
 - Alle Häuser sollen im selben Stil sein.
-- Siles: `10_3D_Modelle/Siles_mit_Skelett_Gehen_Rennen.glb` (Meshy, Mixamo-Skelett, Animationen Walking und Running). Eine eigene Steh-Animation (Idle) fehlt; ab V1.16 wird eine ruhige Stehhaltung aus dem Gehen erzeugt (Beine gerade, leichtes Atmen, Kopf schaut sich um).
+- Siles: `03_3D_Modelle/Siles_mit_Skelett_Gehen_Rennen.glb` (Meshy, Mixamo-Skelett, Animationen Walking und Running). Eine eigene Steh-Animation (Idle) fehlt; ab V1.16 wird eine ruhige Stehhaltung aus dem Gehen erzeugt (Beine gerade, leichtes Atmen, Kopf schaut sich um).
 - Laubbaum: Meshy-Modell „Whimsywood Tree". Das Original hat 3,5 Mio. Dreiecke und 109 MB und ist zu groß für GitHub; im Spiel steckt eine stark vereinfachte Fassung (ca. 2.900 Dreiecke).
 - Wichtig für neue Modelle: mit wenig Dreiecken exportieren (Häuser unter 15.000, Bäume unter 3.000).
-- Tanne: `10_3D_Modelle/Tanne.glb` (Meshy „Whimsical Evergreen", 362.000 Dreiecke).
+- Tanne: `03_3D_Modelle/Tanne.glb` (Meshy „Whimsical Evergreen", 362.000 Dreiecke).
 - Beide Bäume stecken vereinfacht im Spiel (ca. 5.000 bzw. 2.900 Dreiecke); die Farben sind dabei von der Textur auf die Form übertragen.
 - Noch offen: Brunnen, Heilerin, Brisko.
 
 ## Figuren
 - Im Spiel stehen vorerst die Figuren aus den Figurenblättern als aufgestellte Bilder (vorne, seitlich, hinten). Richtige 3D-Figuren mit Skelett können sie später ersetzen.
-- Die Heilerin nutzt vorläufig das Figurenblatt `05_Trainer/3_Trainer_Pflanze.jpg` (Mädchen mit Zopf).
-- Stil der Welt: Bilderbuch-Dorf wie im Vorlagenbild `09_Vorlagen/Haus_Vorlage_Bilderbuchstil.jpg`: zweistöckige Fachwerkhäuser, farbiger Putz, gelbe Fensterrahmen, Rundbogentüren, Balkone, weiße Lattenzäune, Trittsteine, Sonnenblumen.
+- Die Heilerin nutzt vorläufig das Figurenblatt `02_Figurenblaetter/Trainer/3_Trainer_Pflanze.jpg` (Mädchen mit Zopf).
+- Stil der Welt: Bilderbuch-Dorf wie im Vorlagenbild `07_Vorlagen_Bilder/Haus_Vorlage_Bilderbuchstil.jpg`: zweistöckige Fachwerkhäuser, farbiger Putz, gelbe Fensterrahmen, Rundbogentüren, Balkone, weiße Lattenzäune, Trittsteine, Sonnenblumen.
 - Regeln für Monster: kein Feuer, keine Tropfen, keine Wolke über dem Kopf, nichts in der Hand.
