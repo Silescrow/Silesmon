@@ -22,7 +22,7 @@ Zum Spielen reicht die neueste Datei in `07_Alle_Versionen` – alle Bilder und 
 
 ## Stand
 
-Aktuell: **V1.16** – Hauptmenü und das Dorf Wiesengrund in 3D (herumlaufen, Kamera drehen, Häuser, Schilder und die Heilerin ansehen). Wie es weitergeht, steht in `00_Spielplan.md`.
+Aktuell: **V1.17** – Hauptmenü und das Dorf Wiesengrund in 3D (herumlaufen, Kamera drehen, Häuser, Schilder und die Heilerin ansehen). Wie es weitergeht, steht in `00_Spielplan.md`.
 
 ## Monster
 

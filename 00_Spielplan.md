@@ -7,7 +7,7 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 - Hauptmenü hochkant, das Spiel selbst nur quer.
 - Steuerung: Joystick links, Knöpfe rechts.
 - Kein Ladebildschirm, kein „Tippe zum Starten".
-- Hauptmenü ab V1.16: Cover mit eingebautem Silesmon-Logo, Knöpfe darunter.
+- Hauptmenü ab V1.16: Cover mit eingebautem Silesmon-Logo, Knöpfe darunter. Ab V1.17 immer über die volle Breite; auf kurzen Handys stehen die Knöpfe in einer Reihe.
 - Vollbild beim ersten Tipp im Hauptmenü, dazu ein kleiner Vollbild-Knopf oben rechts im Spiel.
 
 ## Geschichte
