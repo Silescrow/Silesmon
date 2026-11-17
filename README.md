@@ -21,7 +21,7 @@ Zum Spielen reicht die neueste Datei in `10_Alle_Versionen` – alle Bilder, Mod
 
 ## Stand
 
-Aktuell: **V1.18** – Hauptmenü mit Cover und Musik, das Dorf Wiesengrund in 3D: Häuser, Bäume und Siles aus eigenen 3D-Modellen, drehbare Kamera. Wie es weitergeht, steht in `06_Texte/Spielplan.md`.
+Aktuell: **V1.19** – Hauptmenü mit Cover und Musik, das große Dorf Wiesengrund in 3D mit Tutorial, Gesprächen, Geräuschen und Speichern. Wie es weitergeht, steht in `06_Texte/Spielplan.md`.
 
 ## Monster
 

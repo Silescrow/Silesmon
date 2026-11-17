@@ -55,8 +55,14 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 
 - Verletzte Tiere heilt man in der Krankenstation.
 
+## Tutorial (Stand V1.19)
+1. Siles denkt beim Start laut über den Sturm nach.
+2. Ziel: mit der Heilerin vor der Krankenstation sprechen.
+3. Sie räumt die Absperrung am Waldtor weg. Ziel: zum Waldtor im Norden.
+4. Am Tor: Der Wald kommt im nächsten Update.
+
 ## Reihenfolge
-1. Das Dorf – **gebaut, Stand V1.18**: Häuser, Siles (mit Skelett), Laubbäume und Tannen aus eigenen 3D-Modellen, drehbare Kamera, Heilerin noch als Bild-Figur
+1. Das Dorf – **gebaut, Stand V1.19**: dreimal so groß (15 Häuser, Straßen, Laternen), märchenhafte Schilder, Himmel mit Sonne und Wolken, Schneeberge, Kamera bis in den Himmel, Tutorial mit Zielanzeige und Pfeil, Sprechen-Knopf mit Comic-Sprechblase, Spielstand speichern (Weiter-Knopf), Geräusche (Schritte, Wind, Vögel, Klick), Schmetterlinge, Vögel, glitzernder Brunnen
 2. Der Wald und die Rettung von Brisko
 3. Krankenstation mit Heilerin, erster Silpod
 4. Wilde Tiere im Wald
