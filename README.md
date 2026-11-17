@@ -7,7 +7,7 @@ Monster zähmen und kämpfen – mobiles 3D-Browser-Spiel fürs Handy. Hier lieg
 | Ordner | Inhalt |
 |---|---|
 | `00_Spielplan.md` | Geschichte, Regeln und Reihenfolge – alles, was fürs Spiel beschlossen ist |
-| `01_Hauptmenue` | Cover (Siles mit Fernglas, riesiger Brisko auf der Ruine), Logo-Schriftzug; älteres Cover in `Alt/` |
+| `01_Hauptmenue` | Cover mit eingebautem Logo (Siles und Brisko am Tag); ältere Cover und Logo in `Alt/` bzw. `Logo_Silesmon.png` |
 | `02_Ladebildschirm` | Bilder für einen Ladebildschirm – im Spiel seit V1.05 nicht mehr benutzt |
 | `03_Spieler` | Figurenblatt von Siles (vorne, seitlich, hinten) |
 | `04_Monster` | Figurenblätter der 10 Monster: `Nummer_Name_Tier_Typ` |
@@ -22,7 +22,7 @@ Zum Spielen reicht die neueste Datei in `07_Alle_Versionen` – alle Bilder und 
 
 ## Stand
 
-Aktuell: **V1.15** – Hauptmenü und das Dorf Wiesengrund in 3D (herumlaufen, Kamera drehen, Häuser, Schilder und die Heilerin ansehen). Wie es weitergeht, steht in `00_Spielplan.md`.
+Aktuell: **V1.16** – Hauptmenü und das Dorf Wiesengrund in 3D (herumlaufen, Kamera drehen, Häuser, Schilder und die Heilerin ansehen). Wie es weitergeht, steht in `00_Spielplan.md`.
 
 ## Monster
 

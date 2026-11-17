@@ -7,6 +7,7 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 - Hauptmenü hochkant, das Spiel selbst nur quer.
 - Steuerung: Joystick links, Knöpfe rechts.
 - Kein Ladebildschirm, kein „Tippe zum Starten".
+- Hauptmenü ab V1.16: Cover mit eingebautem Silesmon-Logo, Knöpfe darunter.
 - Vollbild beim ersten Tipp im Hauptmenü, dazu ein kleiner Vollbild-Knopf oben rechts im Spiel.
 
 ## Geschichte
@@ -68,7 +69,7 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 ## Eigene 3D-Modelle
 - Häuser, Bäume und später Figuren kommen als GLB-Dateien (aus einem Bild erzeugt) und liegen in `10_3D_Modelle`.
 - Alle Häuser sollen im selben Stil sein.
-- Siles: `10_3D_Modelle/Siles_mit_Skelett_Gehen_Rennen.glb` (Meshy, Mixamo-Skelett, Animationen Walking und Running). Eine eigene Steh-Animation (Idle) fehlt noch.
+- Siles: `10_3D_Modelle/Siles_mit_Skelett_Gehen_Rennen.glb` (Meshy, Mixamo-Skelett, Animationen Walking und Running). Eine eigene Steh-Animation (Idle) fehlt; ab V1.16 wird eine ruhige Stehhaltung aus dem Gehen erzeugt (Beine gerade, leichtes Atmen, Kopf schaut sich um).
 - Laubbaum: Meshy-Modell „Whimsywood Tree". Das Original hat 3,5 Mio. Dreiecke und 109 MB und ist zu groß für GitHub; im Spiel steckt eine stark vereinfachte Fassung (ca. 2.900 Dreiecke).
 - Wichtig für neue Modelle: mit wenig Dreiecken exportieren (Häuser unter 15.000, Bäume unter 3.000).
 - Tanne: `10_3D_Modelle/Tanne.glb` (Meshy „Whimsical Evergreen", 362.000 Dreiecke).
