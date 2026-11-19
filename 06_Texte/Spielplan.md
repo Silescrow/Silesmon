@@ -87,3 +87,15 @@ Alles, was für das Spiel beschlossen ist. Wird laufend ergänzt.
 - Die Heilerin nutzt vorläufig das Figurenblatt `02_Figurenblaetter/Trainer/3_Trainer_Pflanze.jpg` (Mädchen mit Zopf).
 - Stil der Welt: Bilderbuch-Dorf wie im Vorlagenbild `07_Vorlagen_Bilder/Haus_Vorlage_Bilderbuchstil.jpg`: zweistöckige Fachwerkhäuser, farbiger Putz, gelbe Fensterrahmen, Rundbogentüren, Balkone, weiße Lattenzäune, Trittsteine, Sonnenblumen.
 - Regeln für Monster: kein Feuer, keine Tropfen, keine Wolke über dem Kopf, nichts in der Hand.
+
+## Stand V1.35 – Geschichte spielbar bis zum Fliegen
+1. Heilerin im Dorf sprechen → Waldtor geht auf
+2. Wald im Norden: Weg, Bach mit Holzbrücke, Lichtung
+3. Brisko (Adlerküken) unter umgestürztem Baum retten → sitzt als Baby auf Siles' Schulter
+4. Heilerin verbindet Brisko → ab jetzt heilt sie alle Tiere
+5. Wilde Tiere: Moosling, Glimmfuchs (neugierig), Hoppla, Stachli (scheu), ein Tierbaby (kein Kampf, Freundschaft)
+6. Rundenkampf: Angriff, Spezialangriff (jedes Tier eigener), Abwehr, Tauschen, Silpod, Flucht; Typen Wind/Pflanze/Feuer/Erde
+7. Waldhüterin Rina mit Borki in ihrer Hütte → Sieg gibt 3 Silpods, Respekt/Freundschaft
+8. Zähmen mit Silpod (Chance höher, je schwächer das Tier), max. 10 Tiere, Team-Menü, nur einer läuft mit
+9. Brisko wächst: ab Stufe 5 größer als Siles, ab Stufe 8 fliegen (🦅-Knopf, B = steigen)
+Offen: echte 3D-Modelle für Brisko, wilde Tiere, Rina; weitere Gebiete und Herausforderer hinter den Bergen.
